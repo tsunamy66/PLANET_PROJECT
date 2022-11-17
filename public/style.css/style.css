@@ -1,0 +1,9 @@
+body {
+    padding: auto;  /* This is the important part */
+    margin: 0;
+    font: optional;
+}
+a{
+    text-decoration: none;
+    color: rgb(245, 230, 230);
+}
